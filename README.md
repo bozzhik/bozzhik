@@ -1,6 +1,8 @@
 ## 🐱‍👤 Hey, I'm Maxim.
 
-I'm taking my first steps in web development, but already now, you can look at my projects in the github profile
+I'm taking my first steps in web development, but already now, you can look at my projects on my [github](https://github.com/bozzhik) or on my [website](https://bozzhik.github.io/works/)
+
+you can take a look at my projects on github or on my website
 <pre>
 At this stage I have learned <kbd>HTML and CSS</kbd>, <kbd>SCSS</kbd>, and I've already started learning <kbd>JavaScript</kbd>.
 </pre>
