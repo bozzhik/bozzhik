@@ -1,6 +1,6 @@
 ## 🐱‍👤 Hey, I'm Maxim.
 
-I'm taking my first steps in web development, but already now, you can look at my projects on my [github](https://github.com/bozzhik) or on my [website](https://bozzhik.github.io/works/)
+I'm taking my first steps in web development, but already now, you can look at my projects on my [github](https://github.com/bozzhik?tab=repositories) or on my [website](https://bozzhik.github.io/works/)
 
 You can take a look at my projects on github or on my website
 <pre>
