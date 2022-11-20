@@ -1,4 +1,4 @@
-# <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hey, I'm Maxim.
+# <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hey, I'm Max
 
 I'm taking my first steps in web development, but already now, you can look at my projects on my [github](https://github.com/bozzhik?tab=repositories) or on my [website](https://bozzhik.github.io/works/)
 
