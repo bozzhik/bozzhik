@@ -10,3 +10,5 @@ At this stage I have learned <kbd>HTML and CSS</kbd>, <kbd>SCSS</kbd>, and I've 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozzhik&layout=compact&theme=dark)](https://github.com/bozzhik?tab=repositories)
 
 💻 You can contact me by [Telegram](https://t.me/bozzhik) or [e-mail](mailto:bozzhik@ya.ru)
+
+<img src="https://komarev.com/ghpvc/?username=bozzhik&label=Profile%20views&color=0e75b6&style=flat-square" alt="bozzhik" />
