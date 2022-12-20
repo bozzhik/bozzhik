@@ -6,8 +6,7 @@ You can take a look at my projects on github or on my website
 <pre>
 At this stage I have learned <kbd>HTML and CSS</kbd>, <kbd>SCSS</kbd>, and I've already started learning <kbd>JavaScript</kbd>
 </pre>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozzhik&layout=compact&theme=dark)](https://github.com/bozzhik?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozzhik&layout=compact&theme=dark&VARNAME="PAT_1")](https://github.com/bozzhik?tab=repositories)
 
 💻 You can contact me by [Telegram](https://t.me/bozzhik) or [e-mail](mailto:bozzhik@ya.ru)
 
