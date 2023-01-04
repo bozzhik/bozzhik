@@ -4,7 +4,7 @@ I'm taking my first steps in web development, but already now, you can look at m
 
 You can take a look at my projects on github or on my website
 <pre>
-At this stage I have learned <kbd>HTML and CSS</kbd>, <kbd>SCSS</kbd>, and I've already started learning <kbd>JavaScript</kbd>
+At the moment I own <kbd>HTML and CSS</kbd> and I'm already writing code in <kbd>JavaScript</kbd>
 </pre>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozzhik&layout=compact&theme=dark&VARNAME="PAT_1")](https://github.com/bozzhik?tab=repositories)
 
