@@ -1,8 +1,7 @@
-# <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hey, I'm Max
 
 ### Look at my projects
 <a href="https://bozzhik.ru"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-<a href="https://github.com/bozzhik?tab=repositories"><img src="https://img.shields.io/badge/github-0A0A0A?style=for-the-badge&logo=design.to&logoColor=white"></a>
+
 
 ### What I Work With
 <a href="https://github.com/bozzhik/js"><img src="https://img.shields.io/badge/JavaScript-f0df5a?style=for-the-badge&logo=javascript&logoColor=black"><a> 
