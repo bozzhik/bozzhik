@@ -6,7 +6,6 @@
 ### I'm Currently Learning ↓
 <a href=""><img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"><a>
 <a href=""><img src="https://img.shields.io/badge/Python-366ea4?style=for-the-badge&logo=python&logoColor=white"><a>
-<a href=""><img src="https://img.shields.io/badge/Material UI-001e3c?style=for-the-badge&logo=mui&logoColor=white"><a>
   
 ### My best projects ↓
 <a href="https://bozzhik.ru"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
