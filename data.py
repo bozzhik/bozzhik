@@ -50,7 +50,7 @@ tech = [
     },
     {
         "alt_text": "Sass",
-        "name": "Sass",
+        "name": "SASS",
         "logo": "sass",
         "color": colors["sass"],
         "logo_color": default_logo_color
