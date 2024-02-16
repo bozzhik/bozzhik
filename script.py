@@ -1,3 +1,5 @@
+from data import tech
+
 def generate_md_file(data):
     md_content = "### Things I code with\n\n<p>\n"
     
@@ -20,21 +22,4 @@ def generate_md_file(data):
     with open("README.md", "w") as file:
         file.write(md_content)
 
-data = [
-    {
-        "alt_text": "JavaScript",
-        "name": "JavaScript",
-        "color": "FFE825",
-        "logo": "javascript",
-        "logo_color": "black"
-    },
-    {
-        "alt_text": "TypeScript",
-        "name": "TypeScript",
-        "color": "007ACC",
-        "logo": "typescript",
-        "logo_color": "white"
-    },
-]
-
-generate_md_file(data)
+generate_md_file(tech)
