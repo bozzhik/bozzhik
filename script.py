@@ -6,9 +6,9 @@ def generate_md_file(data):
     for item in data:
         alt_text = item['alt_text']
         name = item['name']
-        color = item['color']
         logo = item['logo']
-        logo_color = item['logo_color']
+        color = item['color'][1:]
+        logo_color = item['logo_color'][1:]
         
         md_content += f'  <img alt="{alt_text}" src="https://img.shields.io/badge/{name}-{color}?style=flat-square&logo={logo}&logoColor={logo_color}" />\n'
 
