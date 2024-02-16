@@ -1,16 +1,22 @@
 from data import tech
 
 def generate_md_file(data):
-    md_content = "### Things I code with\n\n<p>\n"
-    
-    for item in data:
+    md_content = "### What I Work With\n\n<p>\n"
+
+    for index, item in enumerate(data):
         alt_text = item['alt_text']
         name = item['name']
         logo = item['logo']
         color = item['color'][1:]
         logo_color = item['logo_color'][1:]
-        
+
         md_content += f'  <img alt="{alt_text}" src="https://img.shields.io/badge/{name}-{color}?style=flat-square&logo={logo}&logoColor={logo_color}" />\n'
+        
+        if "insert_br" in item and index != len(data) - 1:
+            md_content += "  <br>\n"
+        if "insert_2br" in item and index != len(data) - 1:
+            md_content += "  <br>\n"
+            md_content += "  <br>\n"
 
     md_content += "</p>\n\n"
 
