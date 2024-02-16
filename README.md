@@ -5,7 +5,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=FFF" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-FC613B?style=flat-square&logo=html5&logoColor=FFF" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-007ACC?style=flat-square&logo=css3&logoColor=FFF" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=FFF" />
+  <img alt="Sass" src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=FFF" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-007ACC?style=flat-square&logo=tailwindcss&logoColor=FFF" />
   <img alt="Styled Components" src="https://img.shields.io/badge/Styled Components-CC6699?style=flat-square&logo=styled-components&logoColor=FFF" />
   <br>
