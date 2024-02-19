@@ -3,6 +3,9 @@ from data import tech
 def generate_md_file(data):
     md_content = "### What I Work With\n\n<p>\n"
 
+    # [flat, flat-square, plastic, for-the-badge, social]
+    tech_style = "flat"
+
     for index, item in enumerate(data):
         alt_text = item['alt_text']
         name = item['name']
@@ -10,7 +13,7 @@ def generate_md_file(data):
         color = item['color'][1:]
         logo_color = item['logo_color'][1:]
 
-        md_content += f'  <img alt="{alt_text}" src="https://img.shields.io/badge/{name}-{color}?style=flat-square&logo={logo}&logoColor={logo_color}" />\n'
+        md_content += f'  <img alt="{alt_text}" src="https://img.shields.io/badge/{name}-{color}?style={tech_style}&logo={logo}&logoColor={logo_color}" />\n'
         
         if "insert_br" in item and index != len(data) - 1:
             md_content += "  <br>\n"
