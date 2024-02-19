@@ -187,6 +187,13 @@ tech = [
         "logo_color": default_logo_color
     },
     {
+        "alt_text": "SQLite",
+        "name": "SQLite",
+        "logo": "sqlite",
+        "color": colors["blue"],
+        "logo_color": default_logo_color
+    },
+    {
         "alt_text": "MongoDB",
         "name": "MongoDB",
         "logo": "mongodb",
