@@ -4,7 +4,7 @@ def generate_md_file(data):
     md_content = "### What I Work With\n\n<p>\n"
 
     # [flat, flat-square, plastic, for-the-badge, social]
-    tech_style = "flat"
+    tech_style = "flat-square"
 
     for index, item in enumerate(data):
         alt_text = item['alt_text']
