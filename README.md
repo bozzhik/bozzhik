@@ -15,6 +15,8 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853d?style=flat-square&logo=node.js&logoColor=FFF" />
   <img alt="Astro" src="https://img.shields.io/badge/Astro-2a233e?style=flat-square&logo=astro&logoColor=FFF" />
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=FFF" />
+  <img alt="threejs" src="https://img.shields.io/badge/Three.js-FFE825?style=flat-square&logo=three.js&logoColor=000" />
+  <img alt="swiper" src="https://img.shields.io/badge/Swiper.js-007ACC?style=flat-square&logo=swiper&logoColor=FFF" />
   <br>
   <img alt="Vite" src="https://img.shields.io/badge/Vite-5849BE?style=flat-square&logo=vite&logoColor=FFF" />
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-007ACC?style=flat-square&logo=webpack&logoColor=FFF" />
