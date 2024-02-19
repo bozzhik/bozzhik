@@ -113,6 +113,20 @@ tech = [
         "name": "npm",
         "logo": "npm",
         "color": colors["npm"],
+        "logo_color": default_logo_color
+    },
+    {
+        "alt_text": "threejs",
+        "name": "Three.js",
+        "logo": "three.js",
+        "color": colors["yellow"],
+        "logo_color": colors.get("black", default_logo_color)
+    },
+    {
+        "alt_text": "swiper",
+        "name": "Swiper.js",
+        "logo": "swiper",
+        "color": colors["blue"],
         "logo_color": default_logo_color,
         "insert_br": True
     },
