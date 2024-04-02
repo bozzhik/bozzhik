@@ -4,4 +4,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozzhik&layout=compact&theme=dark&VARNAME="PAT_1")](https://github.com/bozzhik?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozzhik&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=bozzhik&layout=compact&theme=dark)
