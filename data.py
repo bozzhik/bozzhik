@@ -171,12 +171,6 @@ tech = [
         "logo_color": default_logo_color
     },
     {
-        "name": "SanityCMS",
-        "logo": "sanity",
-        "color": colors["postgresql"],
-        "logo_color": default_logo_color
-    },
-    {
         "name": "PostgreSQL",
         "logo": "postgresql",
         "color": colors["postgresql"],
@@ -192,6 +186,12 @@ tech = [
         "name": "MongoDB",
         "logo": "mongodb",
         "color": colors["node"],
+        "logo_color": default_logo_color
+    },
+    {
+        "name": "SanityCMS",
+        "logo": "sanity",
+        "color": colors["npm"],
         "logo_color": default_logo_color
     },
     {
