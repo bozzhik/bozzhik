@@ -28,10 +28,10 @@
   <br>
   <img alt="git" src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=FFF" />
   <img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-430098?style=flat-square&logo=github-actions&logoColor=FFF" />
-  <img alt="SanityCMS" src="https://img.shields.io/badge/SanityCMS-316192?style=flat-square&logo=sanity&logoColor=FFF" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=FFF" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-007ACC?style=flat-square&logo=sqlite&logoColor=FFF" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-43853d?style=flat-square&logo=mongodb&logoColor=FFF" />
+  <img alt="SanityCMS" src="https://img.shields.io/badge/SanityCMS-CB3837?style=flat-square&logo=sanity&logoColor=FFF" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=FFF" />
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=FFF" />
   <img alt="Prettier" src="https://img.shields.io/badge/Prettier-FFE825?style=flat-square&logo=prettier&logoColor=000" />
