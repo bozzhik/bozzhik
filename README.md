@@ -32,10 +32,8 @@
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-007ACC?style=flat-square&logo=sqlite&logoColor=FFF" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-43853d?style=flat-square&logo=mongodb&logoColor=FFF" />
   <img alt="SanityCMS" src="https://img.shields.io/badge/SanityCMS-CB3837?style=flat-square&logo=sanity&logoColor=FFF" />
+  <img alt="Axios" src="https://img.shields.io/badge/Axios-2a233e?style=flat-square&logo=axios&logoColor=FFF" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=FFF" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=FFF" />
-  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-FFE825?style=flat-square&logo=prettier&logoColor=000" />
-  <br>
   <img alt="Python" src="https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=python&logoColor=FFF" />
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CB3837?style=flat-square&logo=ruby&logoColor=FFF" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby on Rails-CB3837?style=flat-square&logo=rubyonrails&logoColor=FFF" />
