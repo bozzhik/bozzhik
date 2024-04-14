@@ -102,6 +102,13 @@ tech = [
         "logo_color": default_logo_color
     },
     {
+        "alt_text": "NestJS",
+        "name": "NestJS",
+        "logo": "nestjs",
+        "color": colors["npm"],
+        "logo_color": default_logo_color
+    },
+    {
         "alt_text": "Astro",
         "name": "Astro",
         "logo": "astro",
@@ -177,6 +184,20 @@ tech = [
         "name": "git",
         "logo": "git",
         "color": colors["git"],
+        "logo_color": default_logo_color
+    },
+    {
+        "alt_text": "Github Actions",
+        "name": "Github Actions",
+        "logo": "github-actions",
+        "color": colors["heroku"],
+        "logo_color": default_logo_color
+    },
+    {
+        "alt_text": "SanityCMS",
+        "name": "SanityCMS",
+        "logo": "sanity",
+        "color": colors["postgresql"],
         "logo_color": default_logo_color
     },
     {
