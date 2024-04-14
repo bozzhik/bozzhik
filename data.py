@@ -21,49 +21,42 @@ default_logo_color = colors["white"]
 
 tech = [
     {
-        "alt_text": "JavaScript",
         "name": "JavaScript",
         "logo": "javascript",
         "color": colors["yellow"],
         "logo_color": colors.get("black", default_logo_color)
     },
     {
-        "alt_text": "TypeScript",
         "name": "TypeScript",
         "logo": "typescript",
         "color": colors["blue"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "HTML",
         "name": "HTML",
         "logo": "html5",
         "color": colors["html"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "CSS",
         "name": "CSS",
         "logo": "css3",
         "color": colors["blue"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "Sass",
         "name": "SASS",
         "logo": "sass",
         "color": colors["sass"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "Tailwind",
         "name": "Tailwind",
         "logo": "tailwindcss",
         "color": colors["blue"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "Styled Components",
         "name": "Styled Components",
         "logo": "styled-components",
         "color": colors["sass"],
@@ -74,63 +67,54 @@ tech = [
 
 
     {
-        "alt_text": "React",
         "name": "React",
         "logo": "react",
         "color": colors["blue"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "Redux",
         "name": "Redux",
         "logo": "redux",
         "color": colors["redux"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "NextJS",
         "name": "NextJS",
         "logo": "next.js",
         "color": colors["gray"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "NodeJS",
         "name": "NodeJS",
         "logo": "node.js",
         "color": colors["node"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "NestJS",
         "name": "NestJS",
         "logo": "nestjs",
         "color": colors["npm"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "Astro",
         "name": "Astro",
         "logo": "astro",
         "color": colors["astro"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "npm",
         "name": "npm",
         "logo": "npm",
         "color": colors["npm"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "threejs",
         "name": "Three.js",
         "logo": "three.js",
         "color": colors["yellow"],
         "logo_color": colors.get("black", default_logo_color)
     },
     {
-        "alt_text": "swiper",
         "name": "Swiper.js",
         "logo": "swiper",
         "color": colors["blue"],
@@ -141,35 +125,30 @@ tech = [
 
 
     {
-        "alt_text": "Vite",
         "name": "Vite",
         "logo": "vite",
         "color": colors["insomnia"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "Webpack",
         "name": "Webpack",
         "logo": "webpack",
         "color": colors["blue"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "Vercel",
         "name": "Vercel",
         "logo": "vercel",
         "color": colors["gray"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "Heroku",
         "name": "Heroku",
         "logo": "heroku",
         "color": colors["heroku"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "Docker",
         "name": "Docker",
         "logo": "docker",
         "color": colors["blue"],
@@ -180,63 +159,54 @@ tech = [
 
 
     {
-        "alt_text": "git",
         "name": "git",
         "logo": "git",
         "color": colors["git"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "Github Actions",
         "name": "Github Actions",
         "logo": "github-actions",
         "color": colors["heroku"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "SanityCMS",
         "name": "SanityCMS",
         "logo": "sanity",
         "color": colors["postgresql"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "PostgreSQL",
         "name": "PostgreSQL",
         "logo": "postgresql",
         "color": colors["postgresql"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "SQLite",
         "name": "SQLite",
         "logo": "sqlite",
         "color": colors["blue"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "MongoDB",
         "name": "MongoDB",
         "logo": "mongodb",
         "color": colors["node"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "GraphQL",
         "name": "GraphQL",
         "logo": "graphql",
         "color": colors["graph"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "Insomnia",
         "name": "Insomnia",
         "logo": "insomnia",
         "color": colors["insomnia"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "Prettier",
         "name": "Prettier",
         "logo": "prettier",
         "color": colors["yellow"],
@@ -247,28 +217,24 @@ tech = [
 
 
     {
-        "alt_text": "Python",
         "name": "Python",
         "logo": "python",
         "color": colors["blue"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "Ruby",
         "name": "Ruby",
         "logo": "ruby",
         "color": colors["npm"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "RoR",
         "name": "Ruby on Rails",
         "logo": "rubyonrails",
         "color": colors["npm"],
         "logo_color": default_logo_color
     },
     {
-        "alt_text": "gem",
         "name": "gem",
         "logo": "rubygems",
         "color": colors["npm"],
