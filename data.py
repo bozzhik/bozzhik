@@ -204,7 +204,8 @@ tech = [
         "name": "GraphQL",
         "logo": "graphql",
         "color": colors["graph"],
-        "logo_color": default_logo_color
+        "logo_color": default_logo_color,
+        "insert_2br": True
     },
 
 
