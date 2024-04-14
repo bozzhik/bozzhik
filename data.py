@@ -195,23 +195,16 @@ tech = [
         "logo_color": default_logo_color
     },
     {
+        "name": "Axios",
+        "logo": "axios",
+        "color": colors["astro"],
+        "logo_color": default_logo_color
+    },
+    {
         "name": "GraphQL",
         "logo": "graphql",
         "color": colors["graph"],
         "logo_color": default_logo_color
-    },
-    {
-        "name": "Insomnia",
-        "logo": "insomnia",
-        "color": colors["insomnia"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "Prettier",
-        "logo": "prettier",
-        "color": colors["yellow"],
-        "logo_color": colors.get("black", default_logo_color),
-        "insert_br": True
     },
 
 
