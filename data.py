@@ -1,3 +1,4 @@
+# data.py
 colors = {
     "white": "#FFF",
     "black": "#000",
@@ -20,218 +21,41 @@ colors = {
 default_logo_color = colors["white"]
 
 tech = [
-    {
-        "name": "JavaScript",
-        "logo": "javascript",
-        "color": colors["yellow"],
-        "logo_color": colors.get("black", default_logo_color)
-    },
-    {
-        "name": "TypeScript",
-        "logo": "typescript",
-        "color": colors["blue"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "HTML",
-        "logo": "html5",
-        "color": colors["html"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "CSS",
-        "logo": "css3",
-        "color": colors["blue"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "SASS",
-        "logo": "sass",
-        "color": colors["sass"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "Tailwind",
-        "logo": "tailwindcss",
-        "color": colors["blue"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "Styled Components",
-        "logo": "styled-components",
-        "color": colors["sass"],
-        "logo_color": default_logo_color,
-        "insert_br": True
-    },
+    ["JavaScript", "javascript", colors["yellow"], colors.get("black", default_logo_color)],
+    ["TypeScript", "typescript", colors["blue"], default_logo_color],
+    ["HTML", "html5", colors["html"], default_logo_color],
+    ["CSS", "css3", colors["blue"], default_logo_color],
+    ["SASS", "sass", colors["sass"], default_logo_color],
+    ["Tailwind", "tailwindcss", colors["blue"], default_logo_color],
+    ["Styled Components", "styled-components", colors["sass"], default_logo_color, True],
 
+    ["React", "react", colors["blue"], default_logo_color],
+    ["Redux", "redux", colors["redux"], default_logo_color],
+    ["NextJS", "next.js", colors["gray"], default_logo_color],
+    ["NodeJS", "node.js", colors["node"], default_logo_color],
+    ["NestJS", "nestjs", colors["npm"], default_logo_color],
+    ["Astro", "astro", colors["astro"], default_logo_color],
+    ["npm", "npm", colors["npm"], default_logo_color],
+    ["Three.js", "three.js", colors["yellow"], colors.get("black", default_logo_color)],
+    ["Swiper.js", "swiper", colors["blue"], default_logo_color, True],
 
+    ["Vite", "vite", colors["insomnia"], default_logo_color],
+    ["Webpack", "webpack", colors["blue"], default_logo_color],
+    ["Vercel", "vercel", colors["gray"], default_logo_color],
+    ["Heroku", "heroku", colors["heroku"], default_logo_color],
+    ["Docker", "docker", colors["blue"], default_logo_color, True, True],
 
-    {
-        "name": "React",
-        "logo": "react",
-        "color": colors["blue"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "Redux",
-        "logo": "redux",
-        "color": colors["redux"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "NextJS",
-        "logo": "next.js",
-        "color": colors["gray"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "NodeJS",
-        "logo": "node.js",
-        "color": colors["node"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "NestJS",
-        "logo": "nestjs",
-        "color": colors["npm"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "Astro",
-        "logo": "astro",
-        "color": colors["astro"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "npm",
-        "logo": "npm",
-        "color": colors["npm"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "Three.js",
-        "logo": "three.js",
-        "color": colors["yellow"],
-        "logo_color": colors.get("black", default_logo_color)
-    },
-    {
-        "name": "Swiper.js",
-        "logo": "swiper",
-        "color": colors["blue"],
-        "logo_color": default_logo_color,
-        "insert_br": True
-    },
-
-
-
-    {
-        "name": "Vite",
-        "logo": "vite",
-        "color": colors["insomnia"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "Webpack",
-        "logo": "webpack",
-        "color": colors["blue"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "Vercel",
-        "logo": "vercel",
-        "color": colors["gray"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "Heroku",
-        "logo": "heroku",
-        "color": colors["heroku"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "Docker",
-        "logo": "docker",
-        "color": colors["blue"],
-        "logo_color": default_logo_color,
-        "insert_2br": True
-    },
-
-
-
-    {
-        "name": "git",
-        "logo": "git",
-        "color": colors["git"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "Github Actions",
-        "logo": "github-actions",
-        "color": colors["heroku"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "PostgreSQL",
-        "logo": "postgresql",
-        "color": colors["postgresql"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "SQLite",
-        "logo": "sqlite",
-        "color": colors["blue"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "MongoDB",
-        "logo": "mongodb",
-        "color": colors["node"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "SanityCMS",
-        "logo": "sanity",
-        "color": colors["npm"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "Axios",
-        "logo": "axios",
-        "color": colors["astro"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "GraphQL",
-        "logo": "graphql",
-        "color": colors["graph"],
-        "logo_color": default_logo_color,
-        "insert_2br": True
-    },
-
-
-
-    {
-        "name": "Python",
-        "logo": "python",
-        "color": colors["blue"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "Ruby",
-        "logo": "ruby",
-        "color": colors["npm"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "Ruby on Rails",
-        "logo": "rubyonrails",
-        "color": colors["npm"],
-        "logo_color": default_logo_color
-    },
-    {
-        "name": "gem",
-        "logo": "rubygems",
-        "color": colors["npm"],
-        "logo_color": default_logo_color
-    },
+    ["git", "git", colors["git"], default_logo_color],
+    ["Github Actions", "github-actions", colors["heroku"], default_logo_color],
+    ["PostgreSQL", "postgresql", colors["postgresql"], default_logo_color],
+    ["SQLite", "sqlite", colors["blue"], default_logo_color],
+    ["MongoDB", "mongodb", colors["node"], default_logo_color],
+    ["SanityCMS", "sanity", colors["npm"], default_logo_color],
+    ["Axios", "axios", colors["astro"], default_logo_color],
+    ["GraphQL", "graphql", colors["graph"], default_logo_color, True],
+    
+    ["Python", "python", colors["blue"], default_logo_color],
+    ["Ruby", "ruby", colors["npm"], default_logo_color],
+    ["Ruby on Rails", "rubyonrails", colors["npm"], default_logo_color],
+    ["gem", "rubygems", colors["npm"], default_logo_color],
 ]

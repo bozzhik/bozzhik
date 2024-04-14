@@ -1,3 +1,4 @@
+# script.py
 from data import tech
 
 def generate_md_file(data):
@@ -7,17 +8,16 @@ def generate_md_file(data):
     tech_style = "flat-square"
 
     for index, item in enumerate(data):
-        name = item['name']
-        logo = item['logo']
-        color = item['color'][1:]
-        logo_color = item['logo_color'][1:]
+        name = item[0]
+        logo = item[1]
+        color = item[2][1:]
+        logo_color = item[3][1:]
 
         md_content += f'  <img alt="{name}" src="https://img.shields.io/badge/{name}-{color}?style={tech_style}&logo={logo}&logoColor={logo_color}" />\n'
         
-        if "insert_br" in item and index != len(data) - 1:
+        if len(item) > 4 and item[4]:
             md_content += "  <br>\n"
-        if "insert_2br" in item and index != len(data) - 1:
-            md_content += "  <br>\n"
+        if len(item) > 5 and item[5]:
             md_content += "  <br>\n"
 
     md_content += "</p>\n\n"
