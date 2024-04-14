@@ -35,7 +35,6 @@
   <img alt="Axios" src="https://img.shields.io/badge/Axios-2a233e?style=flat-square&logo=axios&logoColor=FFF" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=FFF" />
   <br>
-  <br>
   <img alt="Python" src="https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=python&logoColor=FFF" />
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CB3837?style=flat-square&logo=ruby&logoColor=FFF" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby on Rails-CB3837?style=flat-square&logo=rubyonrails&logoColor=FFF" />
