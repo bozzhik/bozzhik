@@ -26,5 +26,5 @@ jobs:
           git config --local user.email "bozzhik@ya.ru"
           git config --local user.name "bozzhik"
           git add README.md
-          git commit -m "👾 Update README.md" -m "This commit was made using Github Actions"
+          git commit -m "🤖 Update README.md" -m "This commit was made using Github Actions"
           git push

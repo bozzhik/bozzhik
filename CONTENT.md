@@ -1,7 +1,3 @@
-### My best projects
+### Quick links
 
-<a href="https://bozzhik.ru" target="_blank"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"><a>
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozzhik&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=bozzhik&layout=compact&theme=dark)
+[![portfolio](https://img.shields.io/badge/portfolio-222?style=for-the-badge&logo=dev.to&logoColor=white)](https://bozzhik.ru) [![Second Github](https://img.shields.io/badge/Second%20Github-222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbozhik)
