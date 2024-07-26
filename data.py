@@ -30,12 +30,11 @@ tech = [
     ["Styled Components", "styled-components", colors["sass"], default_logo_color, True],
 
     ["React", "react", colors["blue"], default_logo_color],
-    ["Redux", "redux", colors["redux"], default_logo_color],
     ["NextJS", "next.js", colors["gray"], default_logo_color],
+    ["Redux", "redux", colors["redux"], default_logo_color],
     ["NodeJS", "node.js", colors["node"], default_logo_color],
     ["NestJS", "nestjs", colors["npm"], default_logo_color],
     ["Astro", "astro", colors["astro"], default_logo_color],
-    ["npm", "npm", colors["npm"], default_logo_color],
     ["Three.js", "three.js", colors["yellow"], colors.get("black", default_logo_color)],
     ["Swiper.js", "swiper", colors["blue"], default_logo_color, True],
 
@@ -57,5 +56,4 @@ tech = [
     ["Python", "python", colors["blue"], default_logo_color],
     ["Ruby", "ruby", colors["npm"], default_logo_color],
     ["Ruby on Rails", "rubyonrails", colors["npm"], default_logo_color],
-    ["gem", "rubygems", colors["npm"], default_logo_color],
 ]
