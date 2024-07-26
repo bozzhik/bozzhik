@@ -10,12 +10,11 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/Styled Components-CC6699?style=flat-square&logo=styled-components&logoColor=FFF" />
   <br>
   <img alt="React" src="https://img.shields.io/badge/React-007ACC?style=flat-square&logo=react&logoColor=FFF" />
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=FFF" />
   <img alt="NextJS" src="https://img.shields.io/badge/NextJS-333?style=flat-square&logo=next.js&logoColor=FFF" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=FFF" />
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853d?style=flat-square&logo=node.js&logoColor=FFF" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-CB3837?style=flat-square&logo=nestjs&logoColor=FFF" />
   <img alt="Astro" src="https://img.shields.io/badge/Astro-2a233e?style=flat-square&logo=astro&logoColor=FFF" />
-  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=FFF" />
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-FFE825?style=flat-square&logo=three.js&logoColor=000" />
   <img alt="Swiper.js" src="https://img.shields.io/badge/Swiper.js-007ACC?style=flat-square&logo=swiper&logoColor=FFF" />
   <br>
@@ -38,7 +37,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=python&logoColor=FFF" />
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CB3837?style=flat-square&logo=ruby&logoColor=FFF" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby on Rails-CB3837?style=flat-square&logo=rubyonrails&logoColor=FFF" />
-  <img alt="gem" src="https://img.shields.io/badge/gem-CB3837?style=flat-square&logo=rubygems&logoColor=FFF" />
 </p>
 
 ### Quick links
